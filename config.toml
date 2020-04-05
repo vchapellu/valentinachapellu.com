@@ -43,18 +43,16 @@ theme = "hugo-theme-chunky-poster"
   customJS = []
 
   [params.social]
-    rss = true
-    twitter       = "https://twitter.com/valechapellu"
-    linkedin      = "https://www.linkedin.com/in/valentina-chapellu/"
+    rss      = true
+    twitter  = "https://twitter.com/valechapellu"
+    linkedin = "https://www.linkedin.com/in/valentina-chapellu/"
+    medium   = "https://medium.com/@valentina.chapellu"
     # email = "example@example.com"
     # facebook = "https://facebook.com"
-    # twitter = "https://twitter.com"
-    # linkedin = "https://linkedin.com"
     # stack-overflow = "https://stackoverflow.com"
     # instagram = "https://stackoverflow.com"
     # github = "https://github.com"
     # weibo = "https://www.weibo.com"
-    # medium = "https://medium.com"
     # pinterest = "https://pinterest.com"
     # reddit = "https://reddit.com"
     # gitlab = "https://gitlab.com"
