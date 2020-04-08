@@ -7,7 +7,7 @@ name: Valentina Chapellu
 
 I am a **UX Designer** based in Berlin, Europe.
 
-![Valentina Chapellu](/images/vale.jpeg "Valentina Chapellu")
+{{< figure src="/images/vale.jpeg" >}}
 
 Thanks to my Social Sciences background, I know how user research and data analysis work... and most importantly, I know how they do _not_ work.
 
