@@ -15,8 +15,6 @@ title: "First: Empathise (with your organisation)"
 
 Empathise is the first phase of the [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking "Design Thinking - Interaction Design Foundation") framework, as defined by the Stanford d.School. [Empathy](https://dictionary.cambridge.org/dictionary/english/empathy "Empathy - Cambridge Dictionary") is a key ability for a designer: **through empathy you can understand, and by understanding users behaviours you can find solutions tailored to users needs**.
 
-{{< figure src="images/empathise/glasses.jpg" >}}
-
 When the CEO called me to work in AlfaDocs, he asked me to lead the transition of his Marketing team into a Growth team. I was the only remote worker in the Company. I was hired as a UX Designer, but in charge of a Marketing team. Not an easy task! But the Design Thinking methodology has been made to tackle wicked problems, and so I did.
 
 ## Planning
