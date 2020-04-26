@@ -26,6 +26,7 @@ As the UX designer, I am responsible for user research and product design. My ro
 I start the project with some research.
 
 Alongside with a **competitor investigation**, I need to find answers to some questions:
+
 * What differentiates us from our competitors?
 * Who are our current users?
 * What are the website users looking for?
@@ -41,6 +42,7 @@ After many conversations with the Founders Board to understand the direction the
 {{< figure src="/images/website-redesign/issues-ad-discovery.JPG" >}}
 
 During the discovery phase I find some issues I want to work out with the rest of the team:
+
 1. It is not clear at first sight that the product is a management software for dental practices
 1. In the website there are two CTAs:
     * Demo Request - Main CTA. LP with data request to receive a call from a sales and, after that, activate a trial period.
@@ -79,6 +81,7 @@ With the front-end developer we test the feasibility of the whole project and we
 ## Testing & Reiteration
 
 During the first 30 days we make many a/b tests:
+
 * A/B test on the value proposition
 * A/B test a secondary CTA
 * A/B test adding quotes from our satisfied customers
