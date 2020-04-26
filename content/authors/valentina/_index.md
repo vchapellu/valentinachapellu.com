@@ -15,7 +15,7 @@ Having worked in startups granted me great exposure to Product teams and to the 
 
 #### Education
 
-* **Cross-Cultiral Communication**, Università di Torino, 2007-2012
+* **Cross-Cultural Communication**, Università di Torino, 2007-2012
 * **School of Civic Tech**, TOP-IX Consortium, 2016
 * **Digital Marketing Nanodegree**, Udacity, 2018
 * **User Experience Design**, Interaction Design Foundation, 2018

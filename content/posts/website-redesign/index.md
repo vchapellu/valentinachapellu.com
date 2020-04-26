@@ -4,9 +4,10 @@ slug: "website-redesign"
 images:
 - website-redesign/maxime-lebrun-sqb4HU_IRg4-unsplash.jpg
 tags:
-- "web"
+- "product design"
 - "ux design"
 - "design thinking"
+- "prototyping"
 authors:
 - "valentina"
 title: "AlfaDocs Homepage Redesign"
