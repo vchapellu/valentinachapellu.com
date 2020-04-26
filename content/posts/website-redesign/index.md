@@ -24,12 +24,18 @@ As the UX designer on the project, I am responsible for the user research and pr
 
 I started the project with some research.
 
-Alongside with a competitor investigation, I needed to answer to some questions:
+Alongside with a **competitor investigation**, I needed to answer to some questions:
 * What differentiates us from our competitors?
 * Who are our current users?
 * What are the website users looking for?
 * What is the message we want to communicate?
 * What action do we want to trigger?
+
+Having previously worked with the marketing and sales departments on the definition of multiple **user types** helped me a lot with the definition of user needs.
+
+I had many conversations with the Founders Board to understand the direction they wanted imprint to the product and communication.
+
+With all this accumulated knowledge I came back to my team to start working together. 
 
 ## Definition and Ideation
 
@@ -61,8 +67,10 @@ We agreed on keeping only the global navigation bar for the web version and hamb
 
 {{< figure src="/images/website-redesign/modules-video.jpg" >}}
 
-Together with the CMO we made a list of the features we wanted to show in the video, put them in a logical order and give all the video materials to the graphic designer so that he could start working on the creatives.<br>
+Together with the CMO we made a list of the features we wanted to show in the video, put them in a logical order and give all the video materials to the graphic designer so that he could start working on the creatives.
+
 I designed a first version of the homepage with Sketch and shared it with the rest of the team using Zeplin. After some iterations I designed a pixel perfect version we agreed on.
+
 I worked with the graphic designer to optimise the concept video and the music. The final product was longer than expected but everybody in the Company was positively impressed by the quality and the consistency of the message.    
 {{< youtube src="https://www.youtube.com/watch?v=ORsYZLUlkSI" >}}
 With the front-end developer we tested the feasibility of the whole project and we deployed a first version to test.
@@ -72,7 +80,7 @@ With the front-end developer we tested the feasibility of the whole project and 
 During the first 30 days we made many a/b tests:
 * A/B test on the value proposition
 * A/B test a secondary CTA
-* A/B test adding face and quotes of promoters
+* A/B test adding quotes from our satisfied customers
 
 To help everybody in the Company keeping consistency with the new product direction along all communication materials, I prepared a light and easy-to-understand styleguide.
 
