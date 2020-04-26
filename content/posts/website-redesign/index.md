@@ -35,7 +35,7 @@ Having previously worked with the marketing and sales departments on the definit
 
 I had many conversations with the Founders Board to understand the direction they wanted imprint to the product and communication.
 
-With all this accumulated knowledge I came back to my team to start working together. 
+With all this accumulated knowledge I came back to my team to start working together.
 
 ## Definition and Ideation
 
@@ -71,8 +71,10 @@ Together with the CMO we made a list of the features we wanted to show in the vi
 
 I designed a first version of the homepage with **Sketch** and shared it with the rest of the team using **Zeplin**. After some iterations I designed a pixel perfect version we agreed on.
 
-I worked with the graphic designer to optimise the concept video and the music. The final product was longer than expected but everybody in the Company was positively impressed by the quality and the consistency of the message.    
-{{< youtube src="https://www.youtube.com/watch?v=ORsYZLUlkSI" >}}
+I worked with the graphic designer to optimise the concept video and the music. The final product was longer than expected but everybody in the Company was positively impressed by the quality and the consistency of the message.
+
+{{< youtube ORsYZLUlkSI >}}
+
 With the front-end developer we tested the feasibility of the whole project and we deployed a first version to test.
 
 ## Testing & Reiteration
