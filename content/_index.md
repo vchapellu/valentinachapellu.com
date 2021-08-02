@@ -1,3 +1,0 @@
----
-author: "Valentina Chapellu"
----
